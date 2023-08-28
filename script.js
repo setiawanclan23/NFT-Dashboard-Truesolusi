@@ -368,7 +368,7 @@ function Header() {
   return /*#__PURE__*/(
     React.createElement("div", { className: "flex flex-wrap p-3 items-center sticky top-0 bg-zinc-900 h-fit  md:h-16 z-30" }, /*#__PURE__*/
     React.createElement("div", { className: "flex items-center grow md:grow-0 w-fit md:w-48" }, /*#__PURE__*/
-    React.createElement("div", { className: "w-10 h-10 bg-gradient-to-tr from-fuchsia-600 to-violet-600 grid place-items-center rounded-full font-bold text-white  text-2xl" }, "codewithshobhit"), /*#__PURE__*/
+    React.createElement("div", { className: "w-10 h-10 bg-gradient-to-tr from-fuchsia-600 to-violet-600 grid place-items-center rounded-full font-bold text-white  text-2xl" }, "truesolusi"), /*#__PURE__*/
 
 
     React.createElement("div", { className: "ml-2 font-bold text-xl" })), /*#__PURE__*/
