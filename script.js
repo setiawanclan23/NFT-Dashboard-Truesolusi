@@ -104,7 +104,7 @@ const artists = [
 {
   name: 'Shobhit Asthana',
   handler: '@codewithshobhit',
-  image: 'https://assets.codepen.io/9518566/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1674234350&width=512' },
+  image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCp--pfz_9tWA9_lDG5xqxNUpkGFUxE3cheUwY__0kM9-yl8tNFsWXBxYGfxgfclWFtd3TU4ydQ4nRHLhG08OFBoVOjRzq5ehWssX4UQmLFZUBwzYmpEV-QEp23dPtOrRNiRQ6FM5OTzS4sBZHTEzswjByJlbEvGK4v_Nabs2vtVG37g/w72-h72-p-k-no-nu/Radar%20Politan.png' },
 
 {
   name: 'LISAðŸ–¤',
