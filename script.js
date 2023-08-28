@@ -102,8 +102,8 @@ const items = [
 
 const artists = [
 {
-  name: 'Shobhit Asthana',
-  handler: '@codewithshobhit',
+  name: 'True Solusi',
+  handler: '@truesolusi',
   image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCp--pfz_9tWA9_lDG5xqxNUpkGFUxE3cheUwY__0kM9-yl8tNFsWXBxYGfxgfclWFtd3TU4ydQ4nRHLhG08OFBoVOjRzq5ehWssX4UQmLFZUBwzYmpEV-QEp23dPtOrRNiRQ6FM5OTzS4sBZHTEzswjByJlbEvGK4v_Nabs2vtVG37g/w72-h72-p-k-no-nu/Radar%20Politan.png' },
 
 {
